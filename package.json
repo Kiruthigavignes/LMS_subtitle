@@ -20,7 +20,7 @@
     "react-scripts": "5.0.1",
     "react-youtube": "^10.1.0",
     "video-react": "^0.16.0",
-    "video.js": "^8.10.0",
+    "video.js": "^8.16.1",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
